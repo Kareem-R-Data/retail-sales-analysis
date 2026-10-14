@@ -50,7 +50,7 @@ The average unit price of Groceries rose from 707 in Q1 to 799 in Q2, then fell 
 ## Dashboard Previews
 
 ### Sales Dashboard
-![Dashboard 1](dashboard1_preview.png)
+![Dashboard_1](dashboard1_preview.png).
 
 ### Profit Dashboard
 ![Dashboard 2](dashboard2_preview.png)
